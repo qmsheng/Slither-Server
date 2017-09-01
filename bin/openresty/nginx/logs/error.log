@@ -1,0 +1,38 @@
+2017/03/13 11:18:32 [emerg] 72698#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/13 11:18:33 [emerg] 72710#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/13 11:18:36 [emerg] 72730#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/13 11:18:39 [emerg] 72733#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/13 11:19:59 [emerg] 72808#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/13 11:20:00 [emerg] 72820#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/13 11:20:06 [emerg] 72911#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/13 11:20:07 [emerg] 72923#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/13 11:20:10 [emerg] 72926#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/13 11:20:13 [emerg] 72930#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/13 11:21:41 [emerg] 73051#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/13 11:21:42 [emerg] 73063#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/13 11:21:48 [emerg] 73138#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/13 11:21:49 [emerg] 73174#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/13 11:21:52 [emerg] 73185#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/13 11:21:55 [emerg] 73189#0: unexpected "t" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:35
+2017/03/31 12:02:38 [emerg] 8926#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:55
+2017/03/31 12:02:39 [emerg] 8939#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:55
+2017/03/31 12:02:45 [emerg] 9023#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:55
+2017/03/31 12:02:46 [emerg] 9037#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:55
+2017/03/31 12:02:49 [emerg] 9044#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:55
+2017/03/31 12:02:52 [emerg] 9051#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:55
+2017/03/31 12:03:45 [emerg] 9146#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:55
+2017/03/31 12:03:46 [emerg] 9159#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:55
+2017/03/31 12:03:49 [emerg] 9167#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:55
+2017/03/31 12:03:52 [emerg] 9174#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:55
+2017/03/31 12:04:44 [emerg] 9311#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:55
+2017/03/31 12:04:45 [emerg] 9324#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:55
+2017/03/31 12:04:48 [emerg] 9333#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:55
+2017/03/31 12:04:52 [emerg] 9340#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:55
+2017/03/31 12:11:23 [emerg] 10055#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:56
+2017/03/31 12:11:24 [emerg] 10069#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:56
+2017/03/31 12:11:27 [emerg] 10075#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:56
+2017/03/31 12:11:30 [emerg] 10083#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:56
+2017/03/31 12:12:01 [emerg] 10160#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:56
+2017/03/31 12:12:02 [emerg] 10173#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:56
+2017/03/31 12:12:05 [emerg] 10181#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:56
+2017/03/31 12:12:08 [emerg] 10188#0: directive "content_by_lua" is not terminated by ";" in /Users/qms/Desktop/Slither-Server/tmp/app_slither_entry.conf:56

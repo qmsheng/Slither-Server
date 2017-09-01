@@ -1,0 +1,41 @@
+
+snake-eye.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brow
+  rotate: false
+  xy: 104, 62
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 200, 98
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+eyeball_1
+  rotate: false
+  xy: 2, 2
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+eyeball_2
+  rotate: false
+  xy: 2, 59
+  size: 100, 63
+  orig: 100, 63
+  offset: 0, 0
+  index: -1
+lid
+  rotate: false
+  xy: 104, 88
+  size: 94, 34
+  orig: 94, 34
+  offset: 0, 0
+  index: -1

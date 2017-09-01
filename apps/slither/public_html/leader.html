@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html xmlns=http://www.w3.org/1999/xhtml lang="zh-CN">
+<head>
+    <meta http-equiv=Content-Type content="text/html;charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>当前玩家排行</title>
+    <!-- 新 Bootstrap 核心 CSS 文件 -->
+    <link rel="stylesheet" href="//apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css">
+    <!-- 可选的Bootstrap主题文件（一般不用引入） -->
+    <link rel="stylesheet" href="//apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+    <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+    <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <script src="//apps.bdimg.com/libs/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<body>
+    <div class="container-fluid">
+        <div class="row-fluid">
+            <p></p>
+            <h1 style="text-align:center">当前玩家排行</h1>
+            <p></p>
+        </div>
+        <div class="row-fluid">
+            <ul class="list-group" id="usersList">
+
+            </ul>
+        </div>
+    </div>
+</body>
+
+<script>
+String.prototype.format = function(args) {
+    var result = this;
+    if (arguments.length > 0) {
+        if (arguments.length == 1 && typeof (args) == "object") {
+            for (var key in args) {
+                if(args[key]!=undefined){
+                    var reg = new RegExp("({" + key + "})", "g");
+                    result = result.replace(reg, args[key]);
+                }
+            }
+        }
+        else {
+            for (var i = 0; i < arguments.length; i++) {
+                if (arguments[i] != undefined) {
+                    //var reg = new RegExp("({[" + i + "]})", "g");//这个在索引大于9时会有问题，谢谢何以笙箫的指出
+　　　　　　　　　　　　var reg= new RegExp("({)" + i + "(})", "g");
+                    result = result.replace(reg, arguments[i]);
+                }
+            }
+        }
+    }
+    return result;
+}
+
+$(document).ready(
+    function(){
+        var template = '<li class="list-group-item" > \
+            <strong>玩家:&nbsp;{0}</strong> \
+            <strong>长度:&nbsp;&nbsp;{1}</strong> \
+        </li> ';
+        $.post("/slither/?action=snake.leader",
+            {
+                len:"1"
+            },
+            function(data,status){
+                if(status == "success"){
+                    // alert(data);
+                    // var obj = jQuery.parseJSON(data);
+                    var obj = data;
+                    var array = obj.leader
+                    if (array.length>0) {
+                        for (var i = 0; i < array.length; i++) {
+                            var str = template.format(array[i].username, array[i].len);
+                            $("#usersList").append(str);
+                        }
+                    }else {
+                        $("#usersList").append("当前没有玩家在线.");
+                    }
+                }else {
+                    alert("排行榜加载错误.");
+                }
+            });
+    }
+);
+</script>
+
+</html>

@@ -1,0 +1,17 @@
+CHANGES.txt
+CONTRIBUTORS.txt
+COPYRIGHT.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+TODO.txt
+setup.cfg
+setup.py
+meld3/__init__.py
+meld3/_compat.py
+meld3/meld3.py
+meld3/test_meld3.py
+meld3.egg-info/PKG-INFO
+meld3.egg-info/SOURCES.txt
+meld3.egg-info/dependency_links.txt
+meld3.egg-info/top_level.txt

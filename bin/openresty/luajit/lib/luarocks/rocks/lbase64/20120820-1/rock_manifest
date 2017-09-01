@@ -1,0 +1,9 @@
+rock_manifest = {
+   doc = {
+      README = "1bd993eb78a9de5e28d11637eafa3f3a"
+   },
+   ["lbase64-20120820-1.rockspec"] = "d376c0e5258416f8d7455ba4a0ae3a43",
+   lib = {
+      ["base64.so"] = "c1c58c6d84891413c1d72b33724c7032"
+   }
+}

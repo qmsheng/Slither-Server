@@ -1,0 +1,9 @@
+rock_manifest = {
+   doc = {
+      README = "2e1b2ab8f20fd230f8ee8270bb7568d9"
+   },
+   lib = {
+      ["ev.so"] = "37714170f15b2291aa55d82394949747"
+   },
+   ["lua-ev-v1.4-1.rockspec"] = "3a334a7a5732e229676924d69c387997"
+}

@@ -1,0 +1,346 @@
+{
+  "assets": {
+    "res/animation/eye/snake-eye.atlas": {
+      "md5": "08a94b4a9963c3bfdb6010922f5025f4"
+    },
+    "res/animation/eye/snake-eye.json": {
+      "md5": "6881120aa2d932c9996bfb7ffac36f66"
+    },
+    "res/animation/eye/snake-eye.png": {
+      "md5": "5838f8b1015aeb3058d4470e455e0670"
+    },
+    "res/arrow.png": {
+      "md5": "11f49605af4af54fa5c9df136e34efad"
+    },
+    "res/audio/bgm.m4a": {
+      "md5": "adfa21b2315063740cf07a13b0115863"
+    },
+    "res/audio/speedup.wav": {
+      "md5": "1e5f8f24aacb772e82dc62aad91527f9"
+    },
+    "res/bg.png": {
+      "md5": "98245c9dca5f2c3f36971d34bc898889"
+    },
+    "res/color-foods.plist": {
+      "md5": "0611c09778644c493ff289b18a1c7d41"
+    },
+    "res/color-foods.png": {
+      "md5": "da76178105b8a82b649f8ab72928ec18"
+    },
+    "res/color_speed.png": {
+      "md5": "60cc5f538381fcc32ad552fdc99d8699"
+    },
+    "res/ground.png": {
+      "md5": "c71ddf66299de871dff9addafa63ddf4"
+    },
+    "res/joystick_bg.png": {
+      "md5": "fb6e5d009c10cf9e20c056422b05252e"
+    },
+    "res/joystick_button.png": {
+      "md5": "f3b5915a597776946ee22b246ce92693"
+    },
+    "res/joystick_speed.png": {
+      "md5": "8912e71c99d893b37ac7b584e8c4001f"
+    },
+    "res/login/chenmi.png": {
+      "md5": "975e12998278a0decec82d84de473ba3"
+    },
+    "res/login/login_0.png": {
+      "md5": "9fd608d4f3f71ae68ed83d0da2560ea0"
+    },
+    "res/login/login_1.png": {
+      "md5": "bd5005f0b4ba4240f6a50ef95e4c4c54"
+    },
+    "res/login/login_3.png": {
+      "md5": "6b5e755d819eba8b6581aad30d4de088"
+    },
+    "res/login/login_4.png": {
+      "md5": "2d8180f4d3711a7f565a8a7107d154c9"
+    },
+    "res/login/login_5.png": {
+      "md5": "a187955d6ee95df07083276854162fd0"
+    },
+    "res/login/login_6.png": {
+      "md5": "fac7839b89fcd9f4addfffda83198f7e"
+    },
+    "res/login/login_7.png": {
+      "md5": "750e07350d7098cd0f363bb940643416"
+    },
+    "res/login/login_8.png": {
+      "md5": "597c39941977234426bb3c4d21061fbf"
+    },
+    "res/login/login_mute.png": {
+      "md5": "4f5a89fd17c7a0322eccd4265792d2c9"
+    },
+    "res/open.mp4": {
+      "md5": "868facfc77061631c72065022ce77b73"
+    },
+    "res/over/over_0.png": {
+      "md5": "a2c3f2104ec1c6fb044f687b8151c98d"
+    },
+    "res/over/over_1.png": {
+      "md5": "740cc11bb3714dce4941c7d4ca0e336e"
+    },
+    "res/over/over_2.png": {
+      "md5": "6733d1cf99f9bf4b34dbf0d27d9c9f7e"
+    },
+    "res/over/over_3.png": {
+      "md5": "0d1e6966e4abb15da441996a5c5e70e4"
+    },
+    "res/quickVersion": {
+      "md5": "27c05a14127d89019c82302111f221f3"
+    },
+    "res/quicksdk.xml": {
+      "md5": "aa062fa4bb079b5a8b5952dd87a36abd"
+    },
+    "res/rankbg.png": {
+      "md5": "f28ba7f3a03142246d044c0347cb01dc"
+    },
+    "res/readme.txt": {
+      "md5": "311f9c0ce6d3b33b93364d4e71577054"
+    },
+    "res/sector.png": {
+      "md5": "8f70a94ff63ec7541fca3e53265411bc"
+    },
+    "res/snake-avater/snake_body_102.png": {
+      "md5": "75805e56eb98b6b53490f1270a4b0548"
+    },
+    "res/snake-avater/snake_body_103.png": {
+      "md5": "d9f7f1de1461c5c48d535c5413d28212"
+    },
+    "res/snake-avater/snake_body_104.png": {
+      "md5": "a645d4fe67fcf08bbdde88c872950174"
+    },
+    "res/snake-avater/snake_body_201.png": {
+      "md5": "471a6bc2de862af4bff21d9937363a97"
+    },
+    "res/snake-avater/snake_body_202.png": {
+      "md5": "22f8a267b11076bec7d22ca41589f56c"
+    },
+    "res/snake-avater/snake_body_203.png": {
+      "md5": "6fe48620c589aebebc69cb6b1aa5135a"
+    },
+    "res/snake-avater/snake_body_204.png": {
+      "md5": "977b833306f2b6b6dc3a9da8a621fd3c"
+    },
+    "res/snake-avater/snake_body_207.png": {
+      "md5": "b9dfc7c22c7b045a915b36ed121c9f46"
+    },
+    "res/snake-avater/snake_body_208.png": {
+      "md5": "636da5be324003672681ae795a73f155"
+    },
+    "res/snake-avater/snake_body_209.png": {
+      "md5": "37079287e3431b33b8b392f7858c4dd4"
+    },
+    "res/snake-avater/snake_body_210.png": {
+      "md5": "fea6c4cf1dc9a16eeecc59a71c8b6366"
+    },
+    "res/snake-avater/snake_head_102.png": {
+      "md5": "7af1975069a475bcc171f21a42f68d3a"
+    },
+    "res/snake-avater/snake_head_103.png": {
+      "md5": "699a32810e3ff481d25b9eb1101d7965"
+    },
+    "res/snake-avater/snake_head_104.png": {
+      "md5": "4974a1e009e7ec5be5f6a97e7c136f98"
+    },
+    "res/snake-avater/snake_head_201.png": {
+      "md5": "9384bf1f9de6ec24fc6df544562fb6ed"
+    },
+    "res/snake-avater/snake_head_202.png": {
+      "md5": "263c1037c16b24472c7fc5c7ec0e8543"
+    },
+    "res/snake-avater/snake_head_203.png": {
+      "md5": "2a9cb43815e80ccf41cc201369f94e1f"
+    },
+    "res/snake-avater/snake_head_204.png": {
+      "md5": "8cb1ef6467fc85437dbfabbdf26eb203"
+    },
+    "res/snake-avater/snake_head_207.png": {
+      "md5": "403d86a2d5aac1720f6d454e9b0d33bd"
+    },
+    "res/snake-avater/snake_head_208.png": {
+      "md5": "25d85a2902132677bb906541b7a5eaa2"
+    },
+    "res/snake-avater/snake_head_209.png": {
+      "md5": "1eb2299b17bdd6afbf5aad79b3a542b7"
+    },
+    "res/snake-avater/snake_head_210.png": {
+      "md5": "5d20e768a2f7c51f8d788784b247aa74"
+    },
+    "res/ui/GameOver.csb": {
+      "md5": "bb93dea0ce864c8c7d71a1754af5e143"
+    },
+    "res/ui/Login.csb": {
+      "md5": "5349784ea2e590db6826fb652bc889ef"
+    },
+    "src/app/MyApp.luac": {
+      "md5": "9e8c83c566992cac5ac4dc31ee3ac5d7"
+    },
+    "src/app/models/Config.luac": {
+      "md5": "800c6fc2b42c2067a3311cc99710f782"
+    },
+    "src/app/models/MapInfo.luac": {
+      "md5": "e3810b723009bfd93d962f883fb68659"
+    },
+    "src/app/models/ServerManager.luac": {
+      "md5": "0a40acb0f63b2354c0126d1796807396"
+    },
+    "src/app/models/SnakeData.luac": {
+      "md5": "588a9d3e3a293d87e0dd9d233e82c148"
+    },
+    "src/app/models/UDPClient.luac": {
+      "md5": "4dfbb7838ba63d9055bf7ed7737a5a88"
+    },
+    "src/app/models/UserSDK.luac": {
+      "md5": "74dee2331e357d6ee1e3879398708f8a"
+    },
+    "src/app/models/messages/AddBodyMsg.luac": {
+      "md5": "1d6669666329ace6b8bbb225487fd8ca"
+    },
+    "src/app/models/messages/AddFoodMsg.luac": {
+      "md5": "75252d0e55f5ebb4d04c2debd7433bf8"
+    },
+    "src/app/models/messages/AddSnakeMsg.luac": {
+      "md5": "ee3ecd623c9048855dcc81f12996a0d8"
+    },
+    "src/app/models/messages/ClientPos.luac": {
+      "md5": "76a328142a9d1ede4bf6a28380fa443f"
+    },
+    "src/app/models/messages/ClientSnake.luac": {
+      "md5": "9a9455d1b0f62952635a4d8165e2bc0a"
+    },
+    "src/app/models/messages/CommonRequest.luac": {
+      "md5": "be23c3e3f41181fa906f17196fc1fd7a"
+    },
+    "src/app/models/messages/CommonResult.luac": {
+      "md5": "ddf833a2198e83a4a91cca4d9507bf6c"
+    },
+    "src/app/models/messages/DebugMsg.luac": {
+      "md5": "0860387ad67db98a3d25d8806204cc93"
+    },
+    "src/app/models/messages/EatFoodMsg.luac": {
+      "md5": "c24a8f36e6287fc3bb42c1e22fc2fc0d"
+    },
+    "src/app/models/messages/Echo.luac": {
+      "md5": "f14383c68da0c6395545b18776690f43"
+    },
+    "src/app/models/messages/EnterGame.luac": {
+      "md5": "1ee553592a990d4884a031bb6e7ff7a0"
+    },
+    "src/app/models/messages/FoodHit.luac": {
+      "md5": "ad9b710fd2b6fc2b0444a525c64a2d95"
+    },
+    "src/app/models/messages/HeartBeat.luac": {
+      "md5": "839830ef2bfd75391f56e8e65141f203"
+    },
+    "src/app/models/messages/HitEnable.luac": {
+      "md5": "ab7c6755f66a0e03f0309c1ffe64b7f1"
+    },
+    "src/app/models/messages/InitMsg.luac": {
+      "md5": "00ebfe28c123342a303a60c0ba391fa1"
+    },
+    "src/app/models/messages/LeaveGame.luac": {
+      "md5": "47332ed80298e294db53dc4991de0111"
+    },
+    "src/app/models/messages/MessageBase.luac": {
+      "md5": "fbcd18cf6e55a91ecd02eb6cfb9508ff"
+    },
+    "src/app/models/messages/Ready.luac": {
+      "md5": "b5d8dbc34900ff4c29a0310ffd33154d"
+    },
+    "src/app/models/messages/RemoveBodyMsg.luac": {
+      "md5": "e6586ff5ca7536b8f22222d5526f67fe"
+    },
+    "src/app/models/messages/RemoveFoodMsg.luac": {
+      "md5": "a5671a3cf544faed7636231cc28ae1d3"
+    },
+    "src/app/models/messages/RemoveSnakeMsg.luac": {
+      "md5": "7b69de4d62b93efa04065a059626ce9a"
+    },
+    "src/app/models/messages/SnakeHit.luac": {
+      "md5": "9e78745ab3269de90cfa491d582b0d2f"
+    },
+    "src/app/models/messages/SpeedUp.luac": {
+      "md5": "60855d3a57a9d7503ce59abbb1bb0db9"
+    },
+    "src/app/models/messages/UpdateSector.luac": {
+      "md5": "6509414673fc63c56d8562cb68290a08"
+    },
+    "src/app/models/messages/UpdateSnakeMsg.luac": {
+      "md5": "c809563358a737120b25f0b4bb983aa2"
+    },
+    "src/app/models/messages/env.luac": {
+      "md5": "ac8b11adaeec09f5f7434810a5ddc165"
+    },
+    "src/app/models/messages/messages.luac": {
+      "md5": "18071594e94054b50060a99ee02441f2"
+    },
+    "src/app/scenes/LoginView.luac": {
+      "md5": "de4a68ac14b41e9dcedf2ae9490621da"
+    },
+    "src/app/scenes/MainScene.luac": {
+      "md5": "16468798b652a65a6ea224f1e299736f"
+    },
+    "src/app/scenes/OpenVideo.luac": {
+      "md5": "c4740ded4da00f61f1802d7747f05bec"
+    },
+    "src/app/scenes/SlitherView.luac": {
+      "md5": "08c21b701156ee1db1a1ad9132cdcd39"
+    },
+    "src/app/scenes/TestView.luac": {
+      "md5": "efc09ccae4c9f9b5cceb2dad107a7af1"
+    },
+    "src/app/scenes/VerCheckView.luac": {
+      "md5": "f21ead30c48531f28a6495deda652163"
+    },
+    "src/app/views/CameraView.luac": {
+      "md5": "4e5549b9af9bfebc4b3bf6c2d36aa77d"
+    },
+    "src/app/views/MapView.luac": {
+      "md5": "56c4137d6cc9e0c444e7f149624769a9"
+    },
+    "src/app/views/effect/BoomCell.luac": {
+      "md5": "65c0b6b88cc3368c8a6fc6615165deaf"
+    },
+    "src/app/views/effect/BoomEffect.luac": {
+      "md5": "d3eff00d0ea816ca33c110accc51de69"
+    },
+    "src/app/views/food/FoodBase.luac": {
+      "md5": "e06552e2cba3fadb7494ba3f3aebbd37"
+    },
+    "src/app/views/map/MiniMap.luac": {
+      "md5": "162f49d844b39681bf724827224b0b1c"
+    },
+    "src/app/views/map/ScoreBoard.luac": {
+      "md5": "0787d41733cd27e2a898a5bd71217b66"
+    },
+    "src/app/views/snake/Snake.luac": {
+      "md5": "dd30b0b639e8f6e9b586483af13e9547"
+    },
+    "src/app/views/snake/SnakeBase.luac": {
+      "md5": "6aa4bf4bc80f783843968b8b3c25d559"
+    },
+    "src/app/views/snake/SnakeBaseData.luac": {
+      "md5": "ba6473523295e1c38dd58894ec9b00eb"
+    },
+    "src/app/views/snake/SnakeHead.luac": {
+      "md5": "9dabac74ed33127e188f6b5196a6283a"
+    },
+    "src/app/views/snake/SnakePos.luac": {
+      "md5": "5c2b8c71f731b53d181e8edf445fee2e"
+    },
+    "src/app/views/snake/SnakeStatus.luac": {
+      "md5": "15a083754cfb9496b3ab172467a20614"
+    },
+    "src/app/views/snake/parts/Joint.luac": {
+      "md5": "fcf2ca514811654602d4449ba87bd3db"
+    }
+  },
+  "engineVersion": "3.13",
+  "packageUrl": "http://ts.sszdy.zhuoyuechenxing.com:9010/assets/",
+  "remoteManifestUrl": "http://ts.sszdy.zhuoyuechenxing.com:9010/assets/project.manifest",
+  "remoteVersionUrl": "http://ts.sszdy.zhuoyuechenxing.com:9010/assets/version.manifest",
+  "searchPaths": [ "src/", "res/" ],
+  "version": "3"
+}

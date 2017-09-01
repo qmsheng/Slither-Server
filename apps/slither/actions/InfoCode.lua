@@ -1,0 +1,14 @@
+local InfoCode = cc.class("InfoCode")
+
+InfoCode.SQL_DATA_NIL   = 1001
+InfoCode.CAN_NOT_FOLLOW = 3001
+InfoCode.ALREADY_FOLLOW = 3002
+InfoCode.DELETE_ERROE   = 3003
+InfoCode.DELETE_SUCCESS = 3004
+
+InfoCode.ACHIEVEMENT_REWARD_FAIL = 3011
+InfoCode.ACHIEVEMENT_REWARD_GOT  = 3012
+
+
+
+return InfoCode

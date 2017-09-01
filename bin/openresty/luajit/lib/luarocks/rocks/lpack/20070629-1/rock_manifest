@@ -1,0 +1,9 @@
+rock_manifest = {
+   doc = {
+      README = "2ef9fe3f74b0ff07c95335647bf6d4f2"
+   },
+   lib = {
+      ["pack.so"] = "1a9c9633a434e9c4df45a3609d1fc06c"
+   },
+   ["lpack-20070629-1.rockspec"] = "b4e87eedc6a5cf965053cc866a6e759c"
+}

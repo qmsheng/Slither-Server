@@ -1,0 +1,9 @@
+rock_manifest = {
+   doc = {
+      ["README.md"] = "266af063951b22b34654553935c7f659"
+   },
+   lib = {
+      ["process.so"] = "a346c22775a5845a5537c435412db8f9"
+   },
+   ["process-1.6.0-1.rockspec"] = "e68f2a0ac40122b415850345697b7cd8"
+}

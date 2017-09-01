@@ -1,0 +1,11 @@
+rock_manifest = {
+   doc = {
+      ["LICENSE.md"] = "af1ec94e81a8bfbc7c6b3db8fe78a825",
+      ["README.md"] = "5f721bb264354a23432dbca40ee3e515",
+      ["README_zh_CN.md"] = "757e3aeed90dccc1c5c11cced73d96a9"
+   },
+   lib = {
+      ["xxtea.so"] = "deaac7ad0cde0bd13b536ad41ab55db8"
+   },
+   ["xxtea-1.0.0-1.rockspec"] = "1ecb9b734e30e43581531bd4380e899f"
+}

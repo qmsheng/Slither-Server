@@ -1,0 +1,824 @@
+2017-03-09 12:14:54,767 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 14:38:31,180 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 14:54:20,627 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 14:57:33,667 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 14:57:50,348 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 15:13:20,881 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 15:13:48,700 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 15:28:56,285 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 15:35:36,177 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 15:43:16,893 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 15:43:31,282 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 15:44:13,407 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 15:44:17,720 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 15:47:24,022 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 15:47:52,911 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 16:00:49,789 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 16:23:39,715 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 16:24:34,570 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 16:32:06,930 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 16:33:31,716 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-09 16:33:35,716 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 10:40:05,849 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 10:40:09,940 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 10:43:14,410 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 10:43:34,266 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 10:45:26,636 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 10:47:35,752 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 10:47:43,751 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 10:47:55,693 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 10:48:07,119 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 10:48:13,691 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 10:56:57,452 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:03:22,356 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:04:04,747 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:04:11,067 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:07:03,511 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:09:04,412 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:10:35,874 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:10:41,905 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:13:02,617 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:18:31,989 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:19:59,281 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:20:06,736 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:21:41,734 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:21:48,573 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:22:50,785 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:23:36,273 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:27:24,364 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:28:49,785 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:28:54,416 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:32:31,345 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:32:36,781 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 11:35:02,827 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 17:49:46,225 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-13 18:26:52,930 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:25:20,639 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:28:29,790 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:29:20,583 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:32:27,129 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:33:30,253 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:38:12,757 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:38:42,185 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:38:46,622 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:39:12,134 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:39:14,795 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:40:14,169 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:41:21,353 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:46:22,098 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:47:01,055 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:48:54,630 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 10:48:58,460 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 11:09:47,345 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 11:10:22,671 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 11:10:25,925 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 11:10:30,039 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 11:10:33,458 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 11:15:14,640 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 11:15:27,716 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 11:15:46,416 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 11:16:05,438 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 11:16:08,883 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 11:16:59,880 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 11:17:09,690 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 11:52:07,588 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 11:53:11,849 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 12:01:23,059 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 12:01:26,581 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-14 12:05:14,991 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-15 12:58:27,998 WARN received SIGTERM indicating exit request
+2017-03-16 11:01:26,325 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-17 18:36:53,084 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-17 18:36:59,889 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-17 18:40:27,980 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-20 10:37:22,558 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-20 10:40:58,121 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-20 10:41:43,851 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-20 10:42:25,689 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-20 10:42:28,130 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-20 10:42:33,377 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-20 10:47:59,902 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-20 10:48:50,574 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-20 11:01:19,996 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-20 11:04:05,786 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-20 11:04:09,782 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-20 11:38:34,603 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 10:47:53,433 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 10:51:26,580 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 10:53:14,867 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 10:53:18,876 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 10:54:17,395 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 12:00:10,016 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 12:20:14,775 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 12:20:19,274 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 12:20:25,835 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 12:22:02,313 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 12:22:51,678 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 12:25:08,853 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 13:41:22,328 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 13:41:27,319 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 13:41:30,484 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 13:41:48,460 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 13:43:54,381 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 13:52:14,488 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 13:52:18,847 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 13:52:23,391 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 13:52:25,850 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 14:59:52,385 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 15:00:58,749 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 15:04:20,501 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 15:10:22,865 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 15:10:28,064 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 15:12:34,587 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 15:12:37,844 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 15:12:41,590 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 15:32:30,496 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 15:32:33,721 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 15:32:37,003 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 15:45:15,656 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 15:45:19,130 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 15:45:22,404 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 15:45:32,344 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 15:45:52,983 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:15:54,248 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:16:36,068 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:18:10,428 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:20:22,073 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:28:16,607 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:28:20,651 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:28:23,996 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:28:27,344 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:30:45,291 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:42:45,555 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:43:41,244 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:48:52,444 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:49:55,851 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:51:01,971 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:51:21,855 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:54:51,336 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:55:05,237 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:55:12,482 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 16:55:49,478 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 17:00:19,659 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 17:00:23,029 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 17:10:21,832 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 17:13:42,366 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 17:16:58,192 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 17:22:07,273 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 17:23:35,092 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 17:23:39,309 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 17:31:30,129 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 17:34:48,377 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 17:37:38,006 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 17:46:03,735 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 17:50:49,673 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-21 18:36:07,557 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 10:29:35,152 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 10:30:41,726 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 10:30:47,320 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-22 10:31:15,884 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 10:32:07,603 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 10:32:10,760 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-22 10:32:25,744 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 10:32:50,734 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 10:40:12,994 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-22 10:40:46,093 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 10:40:53,865 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 11:16:20,501 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-22 11:16:24,542 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 11:16:50,703 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 11:28:48,087 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-22 11:28:51,130 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 11:28:54,722 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 11:31:32,144 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 11:31:34,848 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-22 11:31:37,208 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 11:31:40,558 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 11:33:20,400 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 11:34:12,227 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 11:35:32,641 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 11:35:36,166 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 11:35:38,759 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-22 11:35:41,227 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 11:35:43,872 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-22 11:35:46,617 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 11:38:56,718 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 13:56:08,327 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 14:07:59,390 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 14:09:05,268 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 14:11:57,480 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 15:10:51,399 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 15:11:10,160 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-22 18:16:46,488 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 10:34:51,336 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 10:34:56,219 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 10:43:43,091 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 10:50:57,223 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 10:59:43,218 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 11:07:01,998 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-23 11:07:05,473 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 11:08:39,676 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 11:10:32,756 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 11:11:43,494 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 11:16:11,415 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 11:26:03,825 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 11:26:43,664 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 11:54:11,616 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-23 11:54:15,426 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 11:54:18,940 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-23 11:54:22,646 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 14:42:41,744 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-23 14:42:44,780 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 14:52:37,793 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-23 14:52:46,883 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 14:52:50,053 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 14:52:52,609 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-23 14:52:55,095 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 14:56:18,340 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 15:24:57,916 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-23 15:25:01,391 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 15:25:05,222 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 15:28:13,939 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 15:36:56,449 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 16:10:19,763 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 16:10:23,336 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 16:27:59,960 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-23 16:28:02,933 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 16:30:17,966 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 16:30:21,168 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-23 16:30:23,736 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 16:30:26,920 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-23 16:30:29,778 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 16:56:08,661 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 17:01:26,659 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-23 17:01:29,582 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 17:29:47,541 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 17:53:14,980 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 17:58:11,621 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 17:59:10,773 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 18:02:05,939 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-23 18:02:09,032 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 18:02:11,785 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-23 18:02:15,229 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 18:10:53,351 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 18:32:37,386 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 18:36:19,551 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 18:37:54,105 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 18:37:56,970 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-23 18:38:00,412 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 18:38:05,117 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 18:38:08,559 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 18:43:09,428 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-23 18:58:43,961 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-24 10:13:25,845 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-24 10:32:21,440 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-29 17:53:21,876 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-29 17:53:25,481 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-30 18:45:59,375 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-30 18:47:11,426 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-30 18:47:50,605 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-30 18:48:17,680 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-30 18:48:21,008 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 10:02:13,346 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 10:10:53,488 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 10:11:01,533 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 10:11:08,089 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 10:22:11,261 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 10:28:31,661 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 10:36:11,073 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 10:39:17,044 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 10:40:45,826 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 10:44:27,990 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 10:52:11,187 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:10:51,071 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:16:17,732 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:16:21,079 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:16:27,283 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:17:39,460 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:20:54,642 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:21:02,327 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:36:29,939 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:46:16,178 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:46:23,401 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:46:29,014 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:55:35,676 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:55:40,647 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:56:31,763 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:58:50,132 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 11:59:47,489 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 12:02:38,209 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 12:02:42,143 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-31 12:02:45,579 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 12:03:45,341 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 12:04:44,721 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 12:05:49,528 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 12:07:12,099 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 12:11:23,530 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 12:12:01,541 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 12:12:13,462 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 12:14:04,952 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 12:16:40,269 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 12:20:52,572 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 12:25:09,657 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 12:48:58,356 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 13:17:44,365 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 13:21:40,655 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 13:22:19,251 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 13:43:27,765 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 13:43:37,667 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 13:43:40,701 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-31 13:43:43,653 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 13:43:47,099 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 13:43:49,295 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 13:44:05,380 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 13:44:11,068 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 13:44:13,703 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-31 13:44:16,065 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 13:45:29,105 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 13:55:37,037 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:04:09,519 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:11:35,835 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:12:40,301 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:13:00,768 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:31:08,739 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:33:54,513 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:34:24,069 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:37:49,508 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:51:52,543 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:51:58,806 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-31 14:52:02,581 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:52:08,775 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:52:11,511 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-31 14:52:13,977 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:52:16,734 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-03-31 14:52:19,480 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:52:28,288 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:53:34,129 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:54:49,296 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:55:26,654 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 14:55:52,201 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 15:22:12,890 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 15:22:17,441 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 15:25:16,963 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 15:26:02,617 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 16:12:33,451 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 16:13:42,801 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 19:03:06,097 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-03-31 19:03:11,145 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 12:05:05,426 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 12:06:11,183 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 12:06:16,004 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 12:15:28,810 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 12:17:23,617 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 12:17:29,357 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-04-01 12:17:33,183 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 12:22:00,020 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 12:23:01,922 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 12:23:18,893 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 13:50:56,889 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 13:51:01,479 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:14:14,097 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:17:18,894 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:19:07,212 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:20:52,046 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:21:29,364 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:21:54,672 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:22:59,837 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:25:44,406 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:26:30,129 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:26:38,881 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:26:45,402 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:27:33,224 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:36:06,370 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:36:13,844 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:36:16,706 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-04-01 14:36:20,010 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:36:25,196 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-01 14:36:31,938 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-05 18:54:05,649 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 16:52:11,779 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 16:52:17,806 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:08:54,498 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:08:58,638 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-04-06 17:09:03,481 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:10:32,862 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:11:20,218 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/qms/Desktop/Slither-Server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2017-04-06 17:11:23,867 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:11:27,311 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:16:32,312 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:37:50,089 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:39:08,215 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:40:54,249 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:44:08,308 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:44:11,844 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:44:15,304 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:45:34,044 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:46:47,654 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:51:38,541 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:52:35,371 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:52:39,125 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:53:32,168 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:56:46,957 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:56:50,871 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:56:53,847 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:57:37,035 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 17:57:40,888 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:06:21,128 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:10:35,480 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:10:38,769 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:12:06,253 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:15:17,104 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:15:20,953 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:16:07,827 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:19:12,636 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:22:46,618 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:30:03,501 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:33:01,120 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:33:04,810 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:38:23,849 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:40:55,130 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:42:13,361 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:43:03,902 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:45:21,743 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:45:31,183 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:46:23,317 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:50:39,716 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:54:07,446 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:54:13,786 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-06 18:54:18,515 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-07 10:31:45,173 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-04-09 07:07:05,533 WARN process 'slither-GameServerInstance' (99988) laststart time is in the future, don't know how long process was running so assuming it did not exit too quickly

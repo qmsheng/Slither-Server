@@ -1,0 +1,24 @@
+rock_manifest = {
+   doc = {
+      ["API.md"] = "ab525ed7c2d3b25009e2bd2f05e8ad73",
+      ["README.md"] = "da7abf97cb9cef91346e757356e15028"
+   },
+   lua = {
+      websocket = {
+         ["bit.lua"] = "90888408d046d9ac7d9ee29e9e817515",
+         ["client.lua"] = "de5a4c9cd00b8c99228bd782eba269a6",
+         ["client_copas.lua"] = "583a4cdf65835d698bd90fd37cb518d5",
+         ["client_ev.lua"] = "14b21956a9b345c4fe6905592503b307",
+         ["ev_common.lua"] = "c030007a7e98e5a361cedca9046b9c68",
+         ["frame.lua"] = "9566f715af6dea4adbbbecc4c4a0764e",
+         ["handshake.lua"] = "ea20e9e5a21fe085c3a84a26793969be",
+         ["server.lua"] = "cff05b82b6d0d9b61458d8b35434ca80",
+         ["server_copas.lua"] = "3591ca59fd763c6be67705802eaecafa",
+         ["server_ev.lua"] = "ebbbbeeaa09dcfa7d264986c64944cd0",
+         ["sync.lua"] = "3a5cf8589615ace255228905d01b22ae",
+         ["tools.lua"] = "aeca800f2aa64d1839bb3465cccaeaf2"
+      },
+      ["websocket.lua"] = "ecbaf6fc988e2174007193ded47562b9"
+   },
+   ["lua-websockets-v2.2-1.rockspec"] = "cb32f70ec6961e60245675c9c5fd6873"
+}
